@@ -5,7 +5,8 @@ include("function.php")
 <html>
 
 <head>
-	<title>Big shope A Ecommerce Category Flat Bootstarp Resposive Website Template | Home :: w3layouts</title>
+	<title>
+		Fashion Store</title>
 	<link href="public/css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
 	<link href="public/css/style.css" rel="stylesheet" type="text/css" media="all" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
